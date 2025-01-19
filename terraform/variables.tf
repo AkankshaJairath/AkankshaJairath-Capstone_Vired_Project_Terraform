@@ -35,7 +35,7 @@ variable "cluster_version" {
 variable "instance_types" {
     description = "instance types for nodes"
     type = list(string)
-    default = ["t3.small"]
+    default = ["t3.medium"]
   
 }
 
