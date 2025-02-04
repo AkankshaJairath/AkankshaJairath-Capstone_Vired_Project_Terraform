@@ -1,1 +1,2 @@
-# AkankshaJairath-Capstone_Vired_Project_Terraform
+# CapstoneProject - JobsApp
+Setup complete infrastructure for deploying MERN application using Terraform..
